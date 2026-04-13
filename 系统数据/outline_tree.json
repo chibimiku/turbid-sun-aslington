@@ -1,0 +1,165 @@
+{
+    "project_name": "turbid-sun-aslington",
+    "nodes": [
+        {
+            "id": "a6992fd5-3455-4173-92ac-14e5c69fad20",
+            "title": "序章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "02d7e41e-1184-4285-aa58-8cb61da4031a",
+                    "title": "雪、车轮与熵增",
+                    "summary": "",
+                    "children": [
+                        {
+                            "id": "3b70a64a-5427-4f27-86ed-d03683bc9799",
+                            "title": "场景一： 阿斯林顿西大门外",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_b1288bdb.md",
+                            "md5": "19ac077376c556244027742fe707d81d"
+                        },
+                        {
+                            "id": "1ec9592d-a4a4-49f2-94a4-fc525765a3be",
+                            "title": "场景二： 阿斯林顿城区 西部城区 街道",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_1cbfeb56.md",
+                            "md5": "e46c9c1770085e911bcaf47807c6908b"
+                        },
+                        {
+                            "id": "d07b6b30-f2b1-406b-929d-09561dadd846",
+                            "title": "场景三： 阿斯林顿西部城区 无名街道",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_afc58555.md",
+                            "md5": "2c08cd6a671fcfe5ea75827afc354763"
+                        },
+                        {
+                            "id": "1c8a3f54-3288-49a9-b588-9d107b992666",
+                            "title": "场景四： 阿斯林顿大教堂 外部与屋顶",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_9d54f487.md",
+                            "md5": "c0b41a0913d79487d8a6b8bf796f87b7"
+                        },
+                        {
+                            "id": "bc676248-d14d-49e6-aea8-315d9683a359",
+                            "title": "场景五： 阿斯林顿大教堂 正厅",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_35970a40.md",
+                            "md5": "6cab356491fb9f520245373e3636f887"
+                        },
+                        {
+                            "id": "1654c887-ccad-42d6-b50b-9f6b93bb2159",
+                            "title": "场景六： 阿斯林顿大教堂 正厅（谈判）",
+                            "summary": "",
+                            "children": [],
+                            "_status": "ok",
+                            "file_path": "场景_48a74f83.md",
+                            "md5": "e87019e2d823bd029eacb208dadda00e"
+                        }
+                    ],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "37487639-c007-4bfe-953d-2bb7231c8461",
+            "title": "第一章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "950738e5-cfd0-4125-9eb1-103b48c2d6aa",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "b1994162-ffd5-417d-8dd3-d0c0a671c7e0",
+            "title": "第二章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "8b222e2a-db7e-4556-a888-856aa8ae36e7",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "50f53a06-6c80-4395-9c61-55afa084c52a",
+            "title": "第三章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "f3ca8f45-d6d1-4232-ab5b-a7f233c79fc0",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "d330cf14-093d-42f7-81df-ed8ab6b777e1",
+            "title": "第四章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "b73c84bb-a27a-4670-bf11-1df1949207c8",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "b722b658-76da-400a-a84c-1190c5c4636c",
+            "title": "第五章",
+            "summary": "",
+            "children": [
+                {
+                    "id": "a6844886-f5d3-45a0-a53d-c2388c51d557",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        },
+        {
+            "id": "a16892d2-4f92-4924-bdd4-c65a3ab5ba59",
+            "title": "后日谈",
+            "summary": "",
+            "children": [
+                {
+                    "id": "95d4d98e-1e67-4c9d-b9af-d3d67475a7c4",
+                    "title": "第1节",
+                    "summary": "",
+                    "children": [],
+                    "_status": "ok"
+                }
+            ],
+            "_status": "ok"
+        }
+    ]
+}
