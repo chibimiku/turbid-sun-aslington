@@ -1,0 +1,5 @@
+{
+    "writing_instruction_name": "默认写作Instruction",
+    "modify_instruction_name": "默认编辑Instruction",
+    "append_writing_style_on_modify": false
+}
